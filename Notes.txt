@@ -1,0 +1,32 @@
+http://finance.yahoo.com/q?s=AAPL&ql=1   - Page
+https://www.google.com/finance/info?q=NASDAQ:GOOG - Google with Exchange and script
+
+
+FS100 - free shiping 100 photo
+YORK100FREE
+
+chatterjeepallab1981@yahoo.com	
+9433415630
+
+
+TCS UPS - 1Z2VX8550395687968
+USPS Photo - 92419999954993553216142857
+
+
+************
+***********
+**********
+*********
+********
+*******
+******
+*****
+****
+***
+**
+*
+
+1. Print a Star
+2. Pint a line with 12 stars
+3. Print 12 lines with 12 starts
+4. Print 12 lines with decreasing stars
